@@ -1,0 +1,8 @@
+E:\Ejemplos\51-winTasks\winTasks\winTasks\bin\Debug\winTasks.exe
+E:\Ejemplos\51-winTasks\winTasks\winTasks\bin\Debug\winTasks.pdb
+E:\Ejemplos\51-winTasks\winTasks\winTasks\obj\Debug\winTasks.csprojResolveAssemblyReference.cache
+E:\Ejemplos\51-winTasks\winTasks\winTasks\obj\Debug\winTasks.Form1.resources
+E:\Ejemplos\51-winTasks\winTasks\winTasks\obj\Debug\winTasks.Properties.Resources.resources
+E:\Ejemplos\51-winTasks\winTasks\winTasks\obj\Debug\winTasks.csproj.GenerateResource.Cache
+E:\Ejemplos\51-winTasks\winTasks\winTasks\obj\Debug\winTasks.exe
+E:\Ejemplos\51-winTasks\winTasks\winTasks\obj\Debug\winTasks.pdb
